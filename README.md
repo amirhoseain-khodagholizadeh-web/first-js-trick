@@ -1,11 +1,11 @@
 # first-js-trick
 
-![viewfinal]([https://github.com/amirhoseain-khodagholizadeh-web/second-js-trick/blob/main/assets/Capture.PNG](https://github.com/amirhoseain-khodagholizadeh-web/first-js-trick/blob/main/assets/img/Capture.PNG))
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-js-trick/blob/main/assets/img/Capture.PNG)
 
 
 -🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/first-js-trick/)
 
--calculate BMI
+- Calculate BMI
 
 - Developed by amirhoseain khodagholizadeh
 
